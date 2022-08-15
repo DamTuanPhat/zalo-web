@@ -1,0 +1,9 @@
+.navbar {
+    /* background-color: #FFF; */
+    padding: 24px 0;
+}
+
+.navbar > .container-fluid > span {
+    font-size: 14px;
+    margin: 0 auto;
+}

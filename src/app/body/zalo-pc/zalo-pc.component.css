@@ -1,0 +1,61 @@
+.module-page h1{
+    font-weight: 660;
+}
+
+.module-page h3{
+    font-weight: 660;
+}
+
+.block-pc {
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-wrap {
+    margin-top: 24px;
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.btn-download {
+    margin-right: 12px;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #0573ff;
+    color: #fff;
+    padding: 12px 18px;
+}
+
+.btn-download:hover {
+    opacity: 0.8;
+}
+
+.btn-web {
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #fff;
+    color: #0573ff;
+    border: 1px solid #0573ff;
+    padding: 12px 18px;
+}
+
+.list-group {
+    margin-left: 24px;
+    
+}
+
+.list-item {
+    list-style: none;
+}
+
+.list-item__icon {
+    color: #0573ff;
+    margin-right: 8px;
+}
+
+.img-control {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+}

@@ -3,7 +3,7 @@
 }
 
 #body {
-    height: 82vh;
+    min-height: 82vh;
     padding: 20px 30px;
 
 }

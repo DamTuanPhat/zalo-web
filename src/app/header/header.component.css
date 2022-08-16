@@ -9,8 +9,8 @@
     color: #0573ff;
 }
 
-.nav-link.active {
-    color: #008FF3;
+.active a{
+    color: #008FF3 !important;
 }
 
 .nav-link {

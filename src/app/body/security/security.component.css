@@ -1,0 +1,33 @@
+.body-container {
+    font-size: 14px;
+}
+
+.policy__header {
+    position: relative;
+}
+
+.policy__header__banner {
+    width: 100%;
+}
+
+.policy__header-title {
+    padding-top: 24px;
+}
+
+.policy__header__title--columm {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #FFF;
+    font-size: 48px;
+    transform: translate(-50%, -50%);
+
+}
+
+.policy__list {
+    font-weight: 500;
+}
+
+.policy__list--number {
+    list-style: decimal;
+}

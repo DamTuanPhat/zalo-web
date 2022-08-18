@@ -1,0 +1,36 @@
+.info-zalo-wrap {
+    display: flex;
+}
+
+.contact__list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.contact__list-item {
+    position: relative;
+    list-style: none;
+    padding: 20px 40px;
+}
+
+.contact__list-item p {
+    display: inline-block;
+}
+
+.scan-qr {
+    text-align: center;
+}
+
+.ic {
+    position: absolute;
+    top: 25px;
+    left: 0;
+    display: inline-block;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    text-indent: -9999px;
+    margin-right: 12px;
+}
